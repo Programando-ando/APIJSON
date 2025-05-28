@@ -1,0 +1,2011 @@
+[
+ {
+  "seccion": 1,
+  "n_pregunta": 1,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What´s your name?",
+  "a": "¿Cuál es tu edad?",
+  "b": "¿Cuál es tu nombre?",
+  "c": "¿Cuál es tu signo?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 2,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Cuántos años tienes?",
+  "a": " Who old are you?",
+  "b": " How young are you?",
+  "c": " How old are you?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 3,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where are you from?",
+  "a": " I am from oaxaca",
+  "b": "You are from mexico",
+  "c": "I live in oaxaca",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 4,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Where are you from?",
+  "a": "¿Dónde estás?",
+  "b": "¿Dónde estuviste?",
+  "c": "¿De dónde eres?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 5,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is your favorite food?  ",
+  "a": "The pasta",
+  "b": "The green",
+  "c": "The brown",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "How old are you?",
+  "a": "¿Cuántos años tienes?",
+  "b": "¿Cuántos gatos tienes?",
+  "c": " ¿Qué tan vieja es tú mamá?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 7,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is your favorite sport?  ",
+  "a": " your favorite sport is the football",
+  "b": " My favorite sport is the volleyball",
+  "c": "My favorite sport are the volleyball",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 8,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Cuál es tu nombre?",
+  "a": "what is your name?",
+  "b": " what are your name?",
+  "c": "what are your none?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 9,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What´s your favorite sport?",
+  "a": "¿Cuál es tu comida favorita?",
+  "b": " ¿Cuál es tu deporte favorito?",
+  "c": "¿Cuál es tu música favorita?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 10,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "How old are you?",
+  "a": "I am 13 years old",
+  "b": "You are 13 years old",
+  "c": " Am i 13 years old",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 11,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What´s your favorite movie?",
+  "a": "¿Cuál es tu deporte favorito?",
+  "b": "¿Cuál es tu pelicula favorita?",
+  "c": "¿Cuál es tu música favorita?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 12,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is your favorite color?  ",
+  "a": "The beer",
+  "b": "The green",
+  "c": "The tortilla",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 13,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What is your favorite sport?  ",
+  "a": "¿Cuál es tu comida favorita?",
+  "b": "¿Cuál es tu deporte favorito?",
+  "c": "¿Cuál es tu clase favorita?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 14,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿De dónde eres?",
+  "a": "Where is you from?",
+  "b": "Where are you from?",
+  "c": "Where are i from?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 15,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is your name?  ",
+  "a": "My name is julia",
+  "b": "My names is jarid",
+  "c": "My age is julio",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 16,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What is your favorite food?  ",
+  "a": "¿Cuál es tu comida favorita?",
+  "b": " ¿Cuál es tu deporte favorito?",
+  "c": "¿Cuál es tu clase favorita?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 17,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is your favorite movie?  ",
+  "a": "My favorite movie is “super bad”",
+  "b": "My favorites movie is “titanic”",
+  "c": " your favorite movie is “spiderman”",
+  "correcta": "A"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 18,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Cuántos años tienes?",
+  "a": "Where is you from",
+  "b": "How old are you?",
+  "c": "Who old are you?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 19,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Cuál es tu nombre?",
+  "a": "Where is you from?",
+  "b": "What is your name?",
+  "c": " Where are i from?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 1,
+  "n_pregunta": 20,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Cuál es tu película favorita?",
+  "a": "What is your favorite movie?",
+  "b": "What is your name?",
+  "c": " Where are i from?",
+  "correcta": "A"
+ },
+ null,
+ {
+  "seccion": 2,
+  "n_pregunta": 1,
+  "preguna": "Traduce la siguiente oración ",
+  "anexo": "where is Valeria?",
+  "a": "¿Dónde está Valeria?",
+  "b": "¿De dónde es Valeria?",
+  "c": "¿Dónde fue Valeria?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 2,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where are julia and marta?",
+  "a": "They are in the zoo",
+  "b": "She is in the university",
+  "c": "The are in the park",
+  "correcta": "A"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 3,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Dónde están pedro y juan?",
+  "a": "Where is pedro and juan?",
+  "b": "Where are pedro and juan?",
+  "c": "Were are pedro and juan?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 4,
+  "preguna": "Responde correctamente la siguiente oración ",
+  "anexo": "Where is fatima?",
+  "a": "she is good",
+  "b": "she is in the room",
+  "c": "she have nine cats",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 5,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "what is Fátima doing?",
+  "a": "¿Qué hizo Fátima?",
+  "b": "¿Cuántos años tiene Fátima?",
+  "c": "¿Qué está haciendo Fátima?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 6,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What do you do every morning?",
+  "a": "I take a shower",
+  "b": "I takes a shower",
+  "c": "You take a shower",
+  "correcta": "A"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 7,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Dónde está Kevin?",
+  "a": "Where is Kevin?",
+  "b": "Where are Kevin?",
+  "c": "Were is Kevin?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 8,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where is maria?",
+  "a": "She are in the classroom",
+  "b": "She is in the university",
+  "c": "The are in the park",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 9,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Where",
+  "a": "quien",
+  "b": "cuando",
+  "c": "Donde",
+  "correcta": "C"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 10,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Where are Natalia and julio?",
+  "a": "¿Dónde viven Natalia y julio?",
+  "b": "¿Dónde están Natalia y julio?",
+  "c": "¿De dónde son Natalia y julio?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 11,
+  "preguna": "Responde la siguiente oración ",
+  "anexo": "Where are julia and sofi?",
+  "a": "She are in the car",
+  "b": "they are in the room",
+  "c": "They is in the party",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 12,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Qué está haciendo sofia?",
+  "a": "Where is sofia?",
+  "b": "what is Sofia doing?",
+  "c": "What are sofia doing?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 13,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "afternoon",
+  "a": "mañana",
+  "b": "tarde",
+  "c": "noche",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 14,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What does your mom do?",
+  "a": "She clean the house",
+  "b": "She cleans the house",
+  "c": "He cleans the house",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 15,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "Where is julio?",
+  "a": "¿Dónde está julio?",
+  "b": "¿Dónde vive julio?",
+  "c": "¿Dónde come julio?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 16,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What are Juan and Pedro doing?",
+  "a": "¿Qué están haciendo juan y pedro?",
+  "b": "¿Qué hicieron juan y pedro?",
+  "c": "¿Qué están comiendo juan y pedro?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 17,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Qué haces todas las tardes?",
+  "a": "Where do you do every afternoon?",
+  "b": "What do you do every morning?",
+  "c": "What do you do every afternoon?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 18,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "morning  ",
+  "a": "mañana",
+  "b": "tarde",
+  "c": "noche",
+  "correcta": "A"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 19,
+  "preguna": "Traduce la siguiente oración ",
+  "anexo": "what is paula doing?",
+  "a": "¿dónde está paula?",
+  "b": "¿Qué está haciendo paula?",
+  "c": "¿Que está cocinando paula?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 2,
+  "n_pregunta": 20,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "what is julio doing?",
+  "a": "He is washing the car",
+  "b": "She is washing the car",
+  "c": "They is washing the car",
+  "correcta": "A"
+ },
+ null,
+ {
+  "seccion": 3,
+  "n_pregunta": 1,
+  "preguna": "Responde la siguiente oración",
+  "anexo": "are you busy?",
+  "a": "Yes, i have",
+  "b": "Yes, i am",
+  "c": "No, i have",
+  "correcta": "B"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 2,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Is Dana Busy?",
+  "a": "¿Esta Dana ocupada?",
+  "b": "¿Esta Dana enojada?",
+  "c": "¿Esta Dana aburrida?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 3,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Angry",
+  "a": "Enojado",
+  "b": "Estresado",
+  "c": "Aburrido",
+  "correcta": "A"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 4,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿está juan ocupado?",
+  "a": "are juan bussy?",
+  "b": "is juan bored?",
+  "c": "is juan busy?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 5,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Is julia Bored?",
+  "a": "¿Esta Julia ocupada?",
+  "b": "¿Esta Julia enojada?",
+  "c": "¿Esta Julia aburrida?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Busy",
+  "a": "Ocupado",
+  "b": "Estresado",
+  "c": "Aburrido",
+  "correcta": "A"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 7,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿está marcos aburrido?",
+  "a": "is marcos bored?",
+  "b": "are marcos bored?",
+  "c": "is marcos bussy?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 8,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "Is marcos angry?",
+  "a": "Yes, he is angry",
+  "b": "Yes, she is angry",
+  "c": "No, they are angry",
+  "correcta": "A"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 9,
+  "preguna": "Traduce al inglés la siguiente palabra ",
+  "anexo": "Ocupado",
+  "a": "stressed",
+  "b": "bussy",
+  "c": "bored",
+  "correcta": "B"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 10,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "Is marta Bussy?",
+  "a": "Yes, he is bussy",
+  "b": "Yes, she is bussy",
+  "c": "No, she are bussy",
+  "correcta": "B"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 11,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Are juan and pedro busy?",
+  "a": "¿están juan y pedro aburridos?",
+  "b": "¿están juan y pedro ocupados?",
+  "c": "¿están juan y pedro cansados?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 12,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "Is Julio stressed?",
+  "a": "No, he is stressed",
+  "b": "Yes, she is stressed",
+  "c": "Yes, he is stressed",
+  "correcta": "C"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 13,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Bored",
+  "a": "Ocupado",
+  "b": "Estresado",
+  "c": "Aburrido",
+  "correcta": "C"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 14,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "Is juan Bored?",
+  "a": "Yes, he is bored",
+  "b": "Yes, she is bored",
+  "c": "No, they are bored",
+  "correcta": "A"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 15,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "stressed",
+  "a": "Ocupado",
+  "b": "Estresado",
+  "c": "Aburrido",
+  "correcta": "B"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 16,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "Are maria and marcos busy?",
+  "a": "Yes, they are bussy",
+  "b": "Yes, she are bussy",
+  "c": "No, they is bussy",
+  "correcta": "A"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 17,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Is julia stressed?",
+  "a": "¿Esta Julia ocupada?",
+  "b": "¿Esta Julia enojada?",
+  "c": "¿Esta Julia estresada?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 18,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿está alberto enojado?",
+  "a": "are alberto bussy?",
+  "b": "is alberto bored?",
+  "c": "is alberto angry?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 19,
+  "preguna": "Traduce al inglés la siguiente palabra ",
+  "anexo": "Enojado",
+  "a": "stressed",
+  "b": "Angry",
+  "c": "bored",
+  "correcta": "B"
+ },
+ {
+  "seccion": 3,
+  "n_pregunta": 20,
+  "preguna": "Traduce al inglés la siguiente palabra ",
+  "anexo": "Estresado",
+  "a": "stressed",
+  "b": "Angry",
+  "c": "bored",
+  "correcta": "A"
+ },
+ null,
+ {
+  "seccion": 4,
+  "n_pregunta": 1,
+  "preguna": "Selecciona el antónimo de la siguiente palabra",
+  "anexo": "New",
+  "a": "Used",
+  "b": "Better",
+  "c": "Public",
+  "correcta": "A"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 2,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "is the car new or used?",
+  "a": "it are new",
+  "b": "it is new",
+  "c": "it are old",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 3,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Right",
+  "a": "Pasado",
+  "b": "Mejor",
+  "c": "correcto",
+  "correcta": "C"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 4,
+  "preguna": "Selecciona el antónimo de la siguiente palabra",
+  "anexo": "Private",
+  "a": "Used",
+  "b": "Better",
+  "c": "Public",
+  "correcta": "C"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 5,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "the math test was hard?",
+  "a": "No, it was hard",
+  "b": "no, it was easy",
+  "c": "yes, it was easy",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "New",
+  "a": "Nuevo",
+  "b": "Mejor",
+  "c": "Publico",
+  "correcta": "A"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 7,
+  "preguna": "Selecciona el antónimo de la siguiente palabra",
+  "anexo": "Easy",
+  "a": "Used",
+  "b": "Difficult ",
+  "c": "Public",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 8,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "Is your Facebook profile public?",
+  "a": "No, is difficult",
+  "b": "Yes, is public",
+  "c": "Yes, is private",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 9,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Publico",
+  "a": "New",
+  "b": "Better",
+  "c": "Public",
+  "correcta": "C"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 10,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Better",
+  "a": "Usado",
+  "b": "Mejor",
+  "c": "Equivocado",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 11,
+  "preguna": "Selecciona el antónimo de la siguiente palabra",
+  "anexo": "Right",
+  "a": "Wrong",
+  "b": "Better",
+  "c": "Future",
+  "correcta": "A"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 12,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Future",
+  "a": "Pasado",
+  "b": "Mejor",
+  "c": "Futuro",
+  "correcta": "C"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 13,
+  "preguna": "Selecciona el antónimo de la siguiente palabra",
+  "anexo": "Hot",
+  "a": "Cold",
+  "b": "Better",
+  "c": "Past",
+  "correcta": "A"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 14,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Facil",
+  "a": "Bad",
+  "b": "Better",
+  "c": "Easy",
+  "correcta": "C"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 15,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Cold",
+  "a": "Frio",
+  "b": "Futuro",
+  "c": "Equivocado",
+  "correcta": "A"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 16,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "the answer is correct?",
+  "a": "No, is difficult",
+  "b": "Yes, is correct",
+  "c": "Yes, are correct",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 17,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Difficult",
+  "a": "Pasado",
+  "b": "dificil",
+  "c": "correcto",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 18,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Hard",
+  "a": "Pasado",
+  "b": "Mejor",
+  "c": "Dificil",
+  "correcta": "C"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 19,
+  "preguna": "Responde correctamente la siguiente pregunta",
+  "anexo": "will you go to university in the future?",
+  "a": "No i will go to university",
+  "b": "yes i will go to university",
+  "c": "yes i will goes to university",
+  "correcta": "B"
+ },
+ {
+  "seccion": 4,
+  "n_pregunta": 20,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Frio",
+  "a": "New",
+  "b": "Better",
+  "c": "cold",
+  "correcta": "C"
+ },
+ null,
+ {
+  "seccion": 5,
+  "n_pregunta": 1,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "is geza’s coffe hot or cold?  ",
+  "a": "it is cold ",
+  "b": "it are cold",
+  "c": "it is better",
+  "correcta": "A"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 2,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "is danna’s dog good or bad?  ",
+  "a": "it are good",
+  "b": "it is good",
+  "c": "she is good",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 3,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "hot",
+  "a": "frio",
+  "b": "mejor",
+  "c": "Caliente",
+  "correcta": "C"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 4,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "¿El árbol de Stephanie es grande o pequeño?",
+  "a": "Is stephanie’s tree big or small?",
+  "b": "Is stephanie’s brother big or small?",
+  "c": "Is stephanie’s tree big or cold?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 5,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "is pedro’s bird real or fake? ",
+  "a": "It is cold",
+  "b": "It´s fake",
+  "c": "It are fake",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Are felix’s cows old or young?",
+  "a": "¿Las vacas de felix son nuevas o viejas?",
+  "b": "¿Las vacas de felix son viejas o jóvenes?",
+  "c": "¿Las cartas de felix son viejas o jóvenes?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 7,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Young",
+  "a": "frio",
+  "b": "mejor",
+  "c": "joven",
+  "correcta": "C"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 8,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "¿Las cartas de juan son nuevas o viejas?",
+  "a": "Juan's cards are young or old?",
+  "b": "Juan's cars are new or old?",
+  "c": "Juan's cards are new or old?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 9,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Cold",
+  "a": "frio",
+  "b": "mejor",
+  "c": "joven",
+  "correcta": "A"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 10,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "¿El perro de Mario es de raza o no?",
+  "a": "are Mario's dog purebred or not?",
+  "b": "Is Mario's dog purebred or not?",
+  "c": "Is Mario's cat purebred or not?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 11,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Is eating vegetables good or bad?  ",
+  "a": "it are good",
+  "b": "it is good",
+  "c": "she is good",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 12,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "¿El carro de juan esta dañado?",
+  "a": "Is Juan's car damage?",
+  "b": "Is Juan car damaged?",
+  "c": "Is Juan's car damaged?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 13,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "vegetables",
+  "a": "vegetales",
+  "b": "frutas",
+  "c": "chicharos",
+  "correcta": "A"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 14,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "The new video game is good or bad?",
+  "a": "is amazing!",
+  "b": "Is easy",
+  "c": "Are nice",
+  "correcta": "A"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 15,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Joven",
+  "a": "cold",
+  "b": "Young",
+  "c": "old",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 16,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "the water is hot or cold?  ",
+  "a": "it are cold",
+  "b": "it is cold",
+  "c": "she is cold",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 17,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "University is easy or hard?",
+  "a": "¿la universidad es fácil o difícil?",
+  "b": "¿la universidad es cara o barata?",
+  "c": "¿la preparatoria es cara o barata?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 18,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Hard",
+  "a": "Pasado",
+  "b": "dificil",
+  "c": "correcto",
+  "correcta": "B"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 19,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "la nueva serie es muy buena",
+  "a": "the old serie is very good",
+  "b": "the new series are very good",
+  "c": "the new serie is very good",
+  "correcta": "C"
+ },
+ {
+  "seccion": 5,
+  "n_pregunta": 20,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "New",
+  "a": "nuevo",
+  "b": "frutas",
+  "c": "chicharos",
+  "correcta": "A"
+ },
+ null,
+ {
+  "seccion": 6,
+  "n_pregunta": 1,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Tell me about you?",
+  "a": "Háblame acerca de ti",
+  "b": "Háblame acerca de mi",
+  "c": "Háblame sobre mari",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 2,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "About",
+  "a": "Hablar ",
+  "b": "cerca",
+  "c": "acerca de",
+  "correcta": "C"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 3,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Tell me about you, are you merried?",
+  "a": "no, i am single",
+  "b": "no, i am happy",
+  "c": "yes, i am bored",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 4,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "dime",
+  "a": "catch me",
+  "b": "tell me",
+  "c": "marrid me",
+  "correcta": "B"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 5,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "tell me about pati, is she fast? ",
+  "a": "no, she is slow",
+  "b": "no, i am happy",
+  "c": "yes,i she is slow",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Fast",
+  "a": "Hablar ",
+  "b": "Rapido",
+  "c": "Correr",
+  "correcta": "B"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 7,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "cuéntame de erick, ¿es feliz?",
+  "a": "tell me about erick, is she happy? ",
+  "b": "tell me about erick, is he happy? ",
+  "c": "tell me about erick, is he mad? ",
+  "correcta": "B"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 8,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "tell me about feli and sofi, they are rares?",
+  "a": "No, they are normal ",
+  "b": "Yes, she are normal ",
+  "c": "no, she is normal ",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 9,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Happy",
+  "a": "Costoso",
+  "b": "Rapido",
+  "c": "Feliz",
+  "correcta": "C"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 10,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": " Háblame acerca de ti",
+  "a": "Tell me about you",
+  "b": "Tell me about he",
+  "c": "Call me about you",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 11,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "tell me about jose, is she beauty? ",
+  "a": "no, she is beauty",
+  "b": "no,i am happy",
+  "c": "yes, he is beauty",
+  "correcta": "C"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 12,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "Háblame sobre tu trabajo",
+  "a": "Tell me about you job",
+  "b": "Tell me about he job",
+  "c": "Call me about you room",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 13,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Beauty",
+  "a": "Hablar ",
+  "b": "Hermoso",
+  "c": "Correr",
+  "correcta": "B"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 14,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "tell me about your boss, is he strict? ",
+  "a": "yes, he is strict",
+  "b": "no,she is happy",
+  "c": "yes, she is slow",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 15,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Feo",
+  "a": "catch me",
+  "b": "tell me",
+  "c": "ugly",
+  "correcta": "C"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 16,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Tell me about you new job?",
+  "a": "Háblame acerca de tu nuevo empleo",
+  "b": "Háblame acerca de mi",
+  "c": "Háblame sobre tu nuevo carro",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 17,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "tell me what is your favorite sport?",
+  "a": "my favorite sport are the volleyball",
+  "b": "my favorite sport is the volleyball",
+  "c": "my favorite sports is the volleyball",
+  "correcta": "B"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 18,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Job",
+  "a": "Costoso",
+  "b": "Rapido",
+  "c": "Trabajo",
+  "correcta": "C"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 19,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "cuentame de tu pelicula favorita",
+  "a": "tell me about your favorite movie",
+  "b": "tell me about my favorite movie",
+  "c": "tell me about yours favorite movie",
+  "correcta": "A"
+ },
+ {
+  "seccion": 6,
+  "n_pregunta": 20,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "tell me about your last trip? ",
+  "a": "my last trip were incredible",
+  "b": "my last trip was incredible",
+  "c": "your last trip was incredible",
+  "correcta": "B"
+ },
+ null,
+ {
+  "seccion": 7,
+  "n_pregunta": 1,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is your mom doing?",
+  "a": "She is eating espaguetti in the dining room",
+  "b": "he is eating espagueti in the dining room",
+  "c": " She are eating espagueti in the dining room",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 2,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Mamá",
+  "a": "Dad",
+  "b": "Mom",
+  "c": "Car",
+  "correcta": "B"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 3,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What is the cat doing?",
+  "a": "¿Qué está comiendo el gato?",
+  "b": "¿Qué está haciendo el pato?",
+  "c": "¿Qué está haciendo el gato?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 4,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What are you doing? ",
+  "a": " I have credit cards ",
+  "b": " I am watching tv program ",
+  "c": " She are eating espagueti ",
+  "correcta": "B"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 5,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Cat",
+  "a": "Gato",
+  "b": "perro",
+  "c": "Mamá",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What are your brothers doing?",
+  "a": "¿Qué están haciendo tus hermanos?",
+  "b": "¿Qué está haciendo tu hermano?",
+  "c": "¿Qué están comiendo tus hermanos?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 7,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Qué están haciendo ellos?",
+  "a": "What are they doing?",
+  "b": "What is they doing?",
+  "c": "Where are they doing?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 8,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Ellos",
+  "a": "They",
+  "b": "She",
+  "c": "Them",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 9,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is juan doing? ",
+  "a": " She is runing in the park",
+  "b": "He are runing in the park",
+  "c": "He is running in the park",
+  "correcta": "C"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 10,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Qué estás haciendo?",
+  "a": "What are you doing?",
+  "b": "Where are you doing?",
+  "c": "What is you doing?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 11,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Dog",
+  "a": "Gato",
+  "b": "perro",
+  "c": "Mamá",
+  "correcta": "B"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 12,
+  "preguna": "Traduce la siguiente oracion",
+  "anexo": "What is julia doing? ",
+  "a": "¿Qué está haciendo julia?",
+  "b": "¿Qué está jugando julia?",
+  "c": "¿Qué está comiendo julia?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 13,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is maria doing? ",
+  "a": "She is runing in the park",
+  "b": "He are runing in the park",
+  "c": "He is running in the park",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 14,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "happy",
+  "a": "triste",
+  "b": "feliz",
+  "c": "divertido",
+  "correcta": "B"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 15,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Tell me about Erick, is he happy?",
+  "a": " Marcame de Erick, ¿es feliz?",
+  "b": "Háblame de Erick, ¿es feliz?",
+  "c": "Háblame de Erick, ¿es triste?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 16,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What is juana doing? ",
+  "a": "She is dancing in the room",
+  "b": "He are runing in the room",
+  "c": "she are dancing in the room",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 17,
+  "preguna": "Traduce al ingles la siguiente palabra",
+  "anexo": "Bailar",
+  "a": "triste",
+  "b": "Dance",
+  "c": "Divertido",
+  "correcta": "B"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 18,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "is manuel´s toy old of new?",
+  "a": "¿El juguete de manuel es viejo o nuevo?",
+  "b": "¿El juguete de manuel es alto o bajo?",
+  "c": "¿El carro de manuel es viejo o nuevo?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 19,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": " Tell me about Lili and Avi, are they romantics?",
+  "a": " Yes, they are romantics",
+  "b": "No, they are romantics ",
+  "c": "Yes, they is romantics ",
+  "correcta": "A"
+ },
+ {
+  "seccion": 7,
+  "n_pregunta": 20,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Qué está haciendo carla?",
+  "a": "What is carla doings?",
+  "b": "What is carla doing?",
+  "c": "What are carla doing?",
+  "correcta": "B"
+ },
+ null,
+ {
+  "seccion": 8,
+  "n_pregunta": 1,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where is your father? ",
+  "a": " He is in the museum",
+  "b": "she is in the museum",
+  "c": "they are in the museum",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 2,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Dónde estás?",
+  "a": " Where are you?",
+  "b": "Where is she?",
+  "c": "Were are you?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 3,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Where",
+  "a": "fue",
+  "b": "Donde",
+  "c": "Carro",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 4,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where am i?",
+  "a": "I am in the pool",
+  "b": "You are in the pool",
+  "c": "she are in the pool",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 5,
+  "preguna": "Traduce al ingles la siguiente palabra",
+  "anexo": "Piscina",
+  "a": "rio",
+  "b": "mar",
+  "c": "pool",
+  "correcta": "C"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 6,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where is my cousin? ",
+  "a": "She is in the Marquet",
+  "b": "it is in the pool",
+  "c": "they are in the museum",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 7,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Cousin",
+  "a": "primo(a)",
+  "b": "hermano(a)",
+  "c": "suegro(a)",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 8,
+  "preguna": "Traduce la siguiente oración ",
+  "anexo": "where is maria? ",
+  "a": "He is in the zoo",
+  "b": "she is in the zoo",
+  "c": "She are in the zoo",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 9,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "¿Isa y Elivet tienen el pelo largo o corto?",
+  "a": "¿Are Isa and Elivet hair tall or small? ",
+  "b": "¿Are Isa and Elivet hair long or short? ",
+  "c": "¿is Isa and Elivet hair long or short? ",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 10,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Tell me about Julia",
+  "a": "Hablame de julia",
+  "b": "Marcame de julia",
+  "c": "Corre a julia",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 11,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where is your sister? ",
+  "a": "He is in the room",
+  "b": "she is in the room",
+  "c": "they are in the room",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 12,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿Dónde está carla?",
+  "a": "Where is carla?",
+  "b": "Where is she?",
+  "c": "Were are carla?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 13,
+  "preguna": "Traduce la siguiente oración ",
+  "anexo": "where are marta and julia? ",
+  "a": "He are at school",
+  "b": "they are at school",
+  "c": "they is at school",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 14,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Primo",
+  "a": "cousin",
+  "b": "uncle",
+  "c": "married",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 15,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "Where are you?",
+  "a": " ¿Dónde estoy?",
+  "b": "¿Dónde estan?",
+  "c": "¿Dónde estás?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 16,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "tío",
+  "a": "cousin",
+  "b": "uncle",
+  "c": "married",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 17,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where is your mother? ",
+  "a": "He is in the museum",
+  "b": "she is in the museum",
+  "c": "they are in the museum",
+  "correcta": "B"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 18,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "Por qué maría está enferma? ",
+  "a": "where is maria sick?",
+  "b": "why are maria sick?",
+  "c": "why is maria sick?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 19,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "¿por qué marta tiene covid?",
+  "a": " why does marta have covid?",
+  "b": "why do marta have covid?",
+  "c": "Where does marta have covid?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 8,
+  "n_pregunta": 20,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Enfermo",
+  "a": "cousin",
+  "b": "sick",
+  "c": "married",
+  "correcta": "B"
+ },
+ null,
+ {
+  "seccion": 9,
+  "n_pregunta": 1,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where are you?",
+  "a": "I am in my house",
+  "b": "They are in my house ",
+  "c": "She is in my house",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 2,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Where are your parents?",
+  "a": "¿Dónde está tu padre?",
+  "b": "¿Dónde están tus parientes?",
+  "c": "¿Dónde están tus padres?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 3,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Parents",
+  "a": "Padres",
+  "b": "Primos",
+  "c": "Tios",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 4,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "What are they doing? ",
+  "a": "I am in the pool",
+  "b": "They are students english",
+  "c": "They is studend english",
+  "correcta": "B"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 5,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Where are your pets?",
+  "a": "¿Dónde están tus tios?",
+  "b": "¿Dónde están tus mascotas?",
+  "c": "¿Dónde están tus padres?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Where ",
+  "a": "¿Dónde?",
+  "b": "¿cuando?",
+  "c": "¿quien?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 7,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where are they? ",
+  "a": "I am in my house",
+  "b": "They is in my house ",
+  "c": "They are in the hospital",
+  "correcta": "C"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 8,
+  "preguna": "Traduce la siguiente oración al ingles",
+  "anexo": "¿Qué estás haciendo?",
+  "a": "What are you doing?",
+  "b": "Where are you doing?",
+  "c": "What is you doing?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 9,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Primos",
+  "a": "cousins",
+  "b": "Parents",
+  "c": "uncle",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 10,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where is she? ",
+  "a": "I am in my house",
+  "b": "They is in my house ",
+  "c": "She is in the hospital",
+  "correcta": "C"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 11,
+  "preguna": "Traduce al inglés la siguiente oración",
+  "anexo": "¿Dónde están tus primos?",
+  "a": "Were are your cousins?",
+  "b": "Where are your parents?",
+  "c": "Where are your cousins?",
+  "correcta": "C"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 12,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What are they doing? ",
+  "a": "¿Qué están haciendo?",
+  "b": "¿Qué estás haciendo?",
+  "c": "¿Qué está haciendo?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 13,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "Tio",
+  "a": "cousins",
+  "b": "Parents",
+  "c": "uncle",
+  "correcta": "C"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 14,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "What? ",
+  "a": "¿que?",
+  "b": "¿cuando?",
+  "c": "¿quien?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 15,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "Where are your toys?",
+  "a": "¿Dónde están tus tios?",
+  "b": "¿Dónde están tus juguetes?",
+  "c": "¿Dónde están tus peliculas?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 16,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Where is she? ",
+  "a": "I am in my house",
+  "b": "she is in my house ",
+  "c": "They are in my house",
+  "correcta": "B"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 17,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "When?",
+  "a": "¿Dónde?",
+  "b": "¿cuando?",
+  "c": "¿quien?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 18,
+  "preguna": "Traduce al inglés la siguiente palabra",
+  "anexo": "¿Dónde? ",
+  "a": "Where?",
+  "b": "who?",
+  "c": " were?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 19,
+  "preguna": "Traduce la siguiente oración al ingles",
+  "anexo": "¿Quién es ella?",
+  "a": "Who is she?",
+  "b": "Where is she?",
+  "c": "Who is he?",
+  "correcta": "A"
+ },
+ {
+  "seccion": 9,
+  "n_pregunta": 20,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "What is he doing? ",
+  "a": "¿Qué están haciendo?",
+  "b": "¿Qué estás haciendo?",
+  "c": "¿Qué está haciendo?",
+  "correcta": "C"
+ },
+ null,
+ {
+  "seccion": 10,
+  "n_pregunta": 1,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "I am learning in the classroom",
+  "a": " Estoy aprendiendo en el salón de clases.",
+  "b": "Estan aprendiendo en el salón de clases.",
+  "c": "Estoy comiendo en el salón de clases.",
+  "correcta": "A"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 2,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "are you busy? ",
+  "a": "Yes you are",
+  "b": "Yes iam ",
+  "c": "Yes she is",
+  "correcta": "B"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 3,
+  "preguna": "Traduce al ingles la siguiente oración",
+  "anexo": "estoy comiendo pizza en mi casa con mi familia",
+  "a": "You are eating pizza in my house with your family",
+  "b": "I am eating pizza in my house with my family",
+  "c": "I am eating pizza in my house with your family",
+  "correcta": "B"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 4,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "busy",
+  "a": "Padres",
+  "b": "Estresado",
+  "c": "Ocupado",
+  "correcta": "C"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 5,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Are your sisters busy? ",
+  "a": "Yes, they are",
+  "b": "Yes i am ",
+  "c": "Yes she is",
+  "correcta": "A"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 6,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "They are dancing a song  in the living room",
+  "a": "Ellos están cocinando una ensalada en la sala",
+  "b": "Ellos están bailando una canción en la sala",
+  "c": "Ellos están cantando una canción en la sala",
+  "correcta": "B"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 7,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "dance",
+  "a": "bailar",
+  "b": "Estresado",
+  "c": "donde",
+  "correcta": "A"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 8,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Are you parends busy? ",
+  "a": "Yes you are",
+  "b": "Yes i am ",
+  "c": "Yes, they are",
+  "correcta": "C"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 9,
+  "preguna": "Traduce al ingles la siguiente oración",
+  "anexo": "¿están ocupados Valeria y tú?",
+  "a": "Are Valeria and i busy?",
+  "b": " Are Valeria and you busy?",
+  "c": "is Valeria and you busy?",
+  "correcta": "B"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 10,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Tell me about Yohana, is Yohana single?",
+  "a": "Yes, he is married ",
+  "b": "No, he is married",
+  "c": "No, she is married",
+  "correcta": "C"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 11,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "married",
+  "a": "Casado(a)",
+  "b": "Estresado(a)",
+  "c": "Ocupado(a)",
+  "correcta": "A"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 12,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Tell me about Lili and Avi, are they romantics?",
+  "a": "Yes, they are romantics",
+  "b": "No, they are romantics ",
+  "c": "Yes, they is romantics ",
+  "correcta": "A"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 13,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "Háblame de Andrea",
+  "a": "Tell me from Andrea",
+  "b": "call me about Andrea",
+  "c": "Tell me about Andrea",
+  "correcta": "C"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 14,
+  "preguna": "Traduce al ingles la siguiente oración",
+  "anexo": "estoy lavando el carro",
+  "a": "I am washings the car",
+  "b": "I am washing the car",
+  "c": "I am eating the car",
+  "correcta": "B"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 15,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "I'm learning to play guitar",
+  "a": "Estoy aprendiendo a tocar guitarra",
+  "b": "Estoy aprendiendo a jugar guitarra",
+  "c": "Estoy comenzando a aprender a tocar guitarra",
+  "correcta": "A"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 16,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "are you bored now?",
+  "a": "Yes they are",
+  "b": "Yes i am ",
+  "c": "Yes she is",
+  "correcta": "B"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 17,
+  "preguna": "Traduce al inglés la siguiente oración ",
+  "anexo": "cuentame de tu nuevo trabajo",
+  "a": "Tell me abouts your new job",
+  "b": "call me about you new work",
+  "c": "Tell me about your new job",
+  "correcta": "C"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 18,
+  "preguna": "Traduce la siguiente oración",
+  "anexo": "I'm getting to know a lot in this place",
+  "a": "Estoy conociendo mucho en este lugar",
+  "b": "Estoy aprendiendo mucho en este lugar",
+  "c": "Estoy comenzando mucho en este lugar",
+  "correcta": "A"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 19,
+  "preguna": "Traduce la siguiente palabra",
+  "anexo": "Know",
+  "a": "trabajar",
+  "b": "Conocer",
+  "c": "Ocupado(a)",
+  "correcta": "B"
+ },
+ {
+  "seccion": 10,
+  "n_pregunta": 20,
+  "preguna": "Responde correctamente a la siguiente pregunta",
+  "anexo": "Do you wanna dance?",
+  "a": "Yes, of course",
+  "b": "Yes i am ",
+  "c": "No, of course",
+  "correcta": "A"
+ }
+]
